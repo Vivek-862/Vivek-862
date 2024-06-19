@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React,SQL,Java**
 
-- 📫 How to reach me **yadav7738vivek@**
+- 📫 How to reach me **yadav7738vivek@gmail.com**
 
 - 📄 Know about my experiences [Software Developer Intern at Vighnesh Inc.](Software Developer Intern at Vighnesh Inc.)
 
