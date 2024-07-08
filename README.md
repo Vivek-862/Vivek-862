@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yadav7738vivek@gmail.com**
 
-- 📄 Know about my experiences [Software Developer Intern at Vighnesh Inc.](Software Developer Intern at Vighnesh Inc.)
+- 📄 Know about my experiences [Ex-Software Developer Intern at Vighnesh Inc.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
